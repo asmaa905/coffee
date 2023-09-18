@@ -1,4 +1,4 @@
-# coffee Pos invoices System
+# coffee Pos and Invoices System
 
 ## Project setup
 ```
