@@ -28,10 +28,10 @@
 
                           </v-img>
                         </div>
-                        <v-list-item-subtitle :class="active?'brown--text':'black--text'"
+                        <!-- <v-list-item-subtitle :class="active?'brown--text':'black--text'"
                         class="caption mt-4"
                         >All
-                      </v-list-item-subtitle>
+                      </v-list-item-subtitle> -->
                       </v-list-item-content>
                     </v-list-item>
                   </v-col>
